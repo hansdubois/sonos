@@ -1,0 +1,13 @@
+{
+  "name": "hansdubois/sonos",
+  "description": "Tryout scripts for sonos",
+  "license": "proprietary",
+  "require": {
+    "guzzlehttp/guzzle": "^6.3",
+    "meng-tian/async-soap-guzzle": "^0.2.4"
+  },
+  "autoload": {
+    "psr-4": {"HansDubois\\Sonos\\": "src/"}
+  }
+}
+
